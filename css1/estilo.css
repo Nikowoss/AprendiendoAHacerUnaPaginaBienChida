@@ -1,0 +1,43 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    font-size: 50px;
+    color:brown;
+}
+
+h3{
+    font-style: italic;
+    color:cadetblue;
+}
+
+/* * {
+    border: 1px;
+    border-style: solid;
+    border-color: aqua;  esto sirve para cabiar el estilo completo de la página
+    } */
+
+#enrojo{
+    color: blue;
+}
+
+.subrayar {
+    text-decoration: underline;
+}
+.negrita {
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover{ /* hover es para que cambie cuando se ponga el cursor encima */
+    text-decoration: none;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
